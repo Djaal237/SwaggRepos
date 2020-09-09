@@ -1,5 +1,5 @@
-<Hdr>
+<Header>
     <h1>
         Hello
     </h1>
-</Hdr>
+</Header>
